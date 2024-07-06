@@ -4,3 +4,5 @@
 
 - AsyncStorage
 - UUID
+
+![](AsyncStorage1.gif)
